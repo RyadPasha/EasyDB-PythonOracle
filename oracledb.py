@@ -1,8 +1,9 @@
 """
-    Oracle Database Connection Wrapper
+    Oracle Database Connection Wrapper.
+
     @author: Mohamed Riyad <@RyadPasha>
     @url: http://ryadpasha.com
-    email: me@ryadpasha.com
+    @email: me@ryadpasha.com
     @license: MIT License
 """
 import cx_Oracle
